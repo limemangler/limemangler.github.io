@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: default
 title: home
 ---
 
 # This is the Home Page
 
-this is a paragraph 
+this is a paragraph
 
 * this is a bullet point
 
