@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+title: home
 ---
 
 # This is the Home Page
@@ -12,5 +13,6 @@ this is a paragraph
 
 ```
 <h1>I hope this is a code block</h1>
+```
 
 table | cells | options
