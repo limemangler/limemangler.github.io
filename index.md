@@ -1,9 +1,9 @@
 ---
 layout: default
-title: home
+
 ---
 
-# This is the Home Page
+# This is the INDEX Page
 
 this is a paragraph
 
