@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "first-blog-post"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2024-08-31 22:24:33 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
 
