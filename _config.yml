@@ -34,6 +34,7 @@ theme: hacker
 plugins:
   - jekyll-remote-theme
 remote_theme: pages-themes/hacker@v0.2.0
+gem "github-pages", group: :jekyll_plugins
 
 # Exclude from processing.
 # The following items will not be processed, by default.
