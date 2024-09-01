@@ -10,7 +10,6 @@
   </head>
 
   <body>
- {% include head-custom.html %}
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
@@ -30,6 +29,7 @@
 
     <div class="container">
       <section id="main_content">
+        {% include navigation.html %}
         {{ content }}
       </section>
     </div>
