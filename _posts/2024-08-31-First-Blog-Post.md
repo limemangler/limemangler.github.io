@@ -1,7 +1,9 @@
+---
 layout: post
 title: "FIRST-BLOG-POST"
 date: YYYY-MM-DD hh:mm:ss -0000
 categories: CATEGORY-1 CATEGORY-2
+---
 
 # This is a test header
 
@@ -12,3 +14,5 @@ this is a test paragraph
 * Is this a bullet point?
 
 I wonder if this will work?
+
+
