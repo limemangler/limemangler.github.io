@@ -21,7 +21,7 @@
 title: limemangler
 email: limemangler@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the future home of future 1337
+  Abandon all hope, ye who enter here
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: limemangler
