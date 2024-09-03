@@ -1,8 +1,6 @@
-- name: Home
-  link: /home.html
-- name: About
+- name: limemangler
   link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Markdown Examples
-  link: md-examples.html
+# - name: Blog
+#   link: /blog.html
+# - name: Markdown Examples
+#   link: /md-examples.html

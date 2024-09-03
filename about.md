@@ -1,8 +1,7 @@
 ---
-layout: about
+layout: default
 title: About
 ---
-# About page
-anything happening?
-## Contact Info
+
+# Contact Info
 {{site.email}}
