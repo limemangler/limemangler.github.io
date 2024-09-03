@@ -13,6 +13,10 @@ title: Tools
 
 **Score:** 5/10 -->
 
+ <script src="https://tryhackme.com/badge/2145152"></script>
+ 
+---
+
 # Completed Hack the Box Academy Paths
 
 * Bug Bounty Hunter
@@ -68,3 +72,4 @@ title: Tools
 * web proxies
 * linpeas and winpeas
 * netstat
+
