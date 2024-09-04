@@ -9,7 +9,7 @@ title: Experience
  
 ---
 
-# Completed Hack the Box Academy Paths
+## Completed Hack the Box Academy Paths
 
 * Bug Bounty Hunter
 * Basic Toolset
@@ -17,7 +17,7 @@ title: Experience
 * Operating System Fundamentals
 * Information Security Foundations
 
-# Completed Hack the Box Academy modules
+## Completed Hack the Box Academy modules
 
 * Intro to Academy
 * Hacking Wordpress
