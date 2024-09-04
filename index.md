@@ -2,13 +2,7 @@
 layout: tools
 title: Experience
 ---
-
-# Experience
-
-<script src="https://tryhackme.com/badge/2145152"></script>
- 
 ---
-
 ## Completed Hack the Box Academy Paths
 
 * Bug Bounty Hunter
@@ -16,6 +10,8 @@ title: Experience
 * Cracking Into HTB
 * Operating System Fundamentals
 * Information Security Foundations
+
+---
 
 ## Completed Hack the Box Academy modules
 

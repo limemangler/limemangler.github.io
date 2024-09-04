@@ -4,6 +4,14 @@
   font-size: larger;
 }
 
-h2.tools_content {
-  padding: 1em;
+h2#completed-hack-the-box-academy-paths,
+h2#completed-hack-the-box-academy-modules {
+  padding: .5em 0em .25em 0em;
+}
+
+.experience_content {
+  padding-bottom: 1em;
+}
+li {
+  padding-left: 1em;
 }
