@@ -6,6 +6,8 @@ tags:
   - jekyll
   - portfolio
   - github
+published: true
+hidden: false
 ---
 ---
 ## SETTING UP
