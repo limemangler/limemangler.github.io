@@ -20,6 +20,7 @@
 
 title: limemangler
 email: limemangler@gmail.com
+author: limemangler
 description: >- # this means to ignore newlines until "baseurl:"
   A quick overview of my training
 baseurl: "/" # the subpath of your site, e.g. /blog
