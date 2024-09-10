@@ -1,8 +1,9 @@
 - name: Experience
   link: /
-- name: Tools
-  link: /tools
 - name: Blog
   link: /blog
+
+# - name: Tools
+#   link: /tools
 
   
