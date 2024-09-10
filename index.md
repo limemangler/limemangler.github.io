@@ -3,7 +3,7 @@ layout: tools
 title: Experience
 ---
 ---
-## Completed Hack the Box Academy Paths
+## ACADEMY: Hack the Box Completed Paths
 
 * Bug Bounty Hunter
 * Basic Toolset
@@ -13,7 +13,7 @@ title: Experience
 
 ---
 
-## Completed Hack the Box Academy modules
+## ACADEMY: Hack the Box Completed Modules
 
 * Intro to Academy
 * Hacking Wordpress
