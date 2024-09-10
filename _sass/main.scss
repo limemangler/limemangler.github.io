@@ -3,6 +3,9 @@
   font-size: larger;
   text-align-last: end;
 }
+.main-nav a {
+  text-decoration: none;
+}
 
 h2#completed-hack-the-box-academy-paths,
 h2#completed-hack-the-box-academy-modules {
@@ -14,4 +17,7 @@ h2#completed-hack-the-box-academy-modules {
 }
 li {
   padding-left: 1em;
+}
+.email.btn {
+  color: aquamarine;
 }
