@@ -1,6 +1,7 @@
 ---
 layout: default
 title: md-examples
+permalink: /md-examples/
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

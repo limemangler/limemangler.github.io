@@ -1,6 +1,7 @@
 ---
 layout: experience
 title: Experience
+permalink: /
 ---
 ---
 ## ACADEMY: Hack the Box Completed Paths

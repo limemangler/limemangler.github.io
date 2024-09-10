@@ -28,6 +28,9 @@ url: "https://limemangler.github.io" # the base hostname & protocol for your sit
 twitter_username: limemangler
 github_username:  limemangler
 
+include: [_pages]
+
+
 # Build settings
 theme: jekyll-theme-hacker
 plugins:

@@ -1,6 +1,7 @@
 ---
 layout: tools
 title: Tools
+permalink: /tools/
 ---
 
 <!-- Future Template for adding more information about my tools list -->
