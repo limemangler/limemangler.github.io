@@ -10,7 +10,7 @@ published: true
 hidden: false
 ---
 ---
-## SETTING UP
+### SETTING UP
 ---
 
 Add this line to your gemfile:
